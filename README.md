@@ -3,6 +3,7 @@
 #### https://www.kaggle.com/c/DontGetKicked
 
 # Dependencies
+#### python 2.7
 #### pandas
 #### numpy
 #### scikit-learn
