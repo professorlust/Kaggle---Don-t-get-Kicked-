@@ -11,4 +11,5 @@
 
 # Instructions to run
 
+#### pip install -r requirements.txt
 #### Run all cells of main_get_kicked.ipynb
