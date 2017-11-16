@@ -8,6 +8,6 @@ scikit-learn
 keras
 tensorflow
 
-#Instructions to run
+# Instructions to run
 
 Run all cells of main_get_kicked.ipynb
